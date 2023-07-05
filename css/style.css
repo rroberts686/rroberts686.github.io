@@ -4,6 +4,10 @@
     color:white;
     margin: 2rem auto 2rem auto;
     width: 1000px;
+    
+}
+body{
+    background-color: black;
 }
 header{
     display:flex;
@@ -13,7 +17,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: white;
+    background-color: black;
   }
   
   nav li {
@@ -26,7 +30,7 @@ nav ul {
     display: grid;
     padding: 10px 20px;
     text-decoration: none;
-    color: black;
+    color: white;
   }
   
   nav li a:hover {
@@ -36,7 +40,7 @@ nav ul {
     padding: 40px;
     margin-bottom: 20px;
     background-color: gray;
-    border: 1px solid white;
+    border: 1px solid black;
     border-radius: 4px;
   }
   
@@ -54,7 +58,7 @@ nav ul {
 img {
     width: 200px;
     display: flex;
-    justify-content: center;
+    margin: auto;
 } 
 
  
